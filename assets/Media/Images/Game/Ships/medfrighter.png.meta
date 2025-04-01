@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "2341e3e3-a6a0-4397-985f-8b20fb3b2ef4",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "2341e3e3-a6a0-4397-985f-8b20fb3b2ef4@6c48a",
+      "displayName": "medfrighter",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "2341e3e3-a6a0-4397-985f-8b20fb3b2ef4",
+        "isUuid": true,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "2341e3e3-a6a0-4397-985f-8b20fb3b2ef4@f9941",
+      "displayName": "medfrighter",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0.5,
+        "trimX": 8,
+        "trimY": 2,
+        "width": 69,
+        "height": 80,
+        "rawWidth": 85,
+        "rawHeight": 85,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2341e3e3-a6a0-4397-985f-8b20fb3b2ef4@6c48a",
+        "atlasUuid": "",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -34.5,
+            -40,
+            0,
+            34.5,
+            -40,
+            0,
+            -34.5,
+            40,
+            0,
+            34.5,
+            40,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            8,
+            83,
+            77,
+            83,
+            8,
+            3,
+            77,
+            3
+          ],
+          "nuv": [
+            0.09411764705882353,
+            0.03529411764705882,
+            0.9058823529411765,
+            0.03529411764705882,
+            0.09411764705882353,
+            0.9764705882352941,
+            0.9058823529411765,
+            0.9764705882352941
+          ],
+          "minPos": [
+            -34.5,
+            -40,
+            0
+          ],
+          "maxPos": [
+            34.5,
+            40,
+            0
+          ]
+        }
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "2341e3e3-a6a0-4397-985f-8b20fb3b2ef4@6c48a"
+  }
+}
